@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <pcToLineNum>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="3" lineNum="21" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="3" lineNum="22" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="3" lineNum="24" pc="268435478" symbol="initialize"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="27" pc="268435523" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="28" pc="268435527" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="29" pc="268435544" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="30" pc="268435561" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="31" pc="268435568" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="32" pc="268435575" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="33" pc="268435582" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="34" pc="268435589" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="35" pc="268435596" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="36" pc="268435603" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="37" pc="268435610" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="38" pc="268435617" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="39" pc="268435624" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="40" pc="268435631" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="41" pc="268435638" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="42" pc="268435645" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="43" pc="268435652" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="44" pc="268435659" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="48" pc="268435666" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="49" pc="268435693" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="50" pc="268435703" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="51" pc="268435713" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="54" pc="268435726" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="55" pc="268435733" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="58" pc="268435740" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="59" pc="268435767" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="62" pc="268435780" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="65" pc="268435787" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="66" pc="268435814" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="69" pc="268435827" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="72" pc="268435834" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="73" pc="268435861" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="76" pc="268435874" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="79" pc="268435881" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="80" pc="268435908" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="83" pc="268435921" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="86" pc="268435928" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="87" pc="268435955" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="88" pc="268435965" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="89" pc="268435975" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="90" pc="268435985" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="93" pc="268435998" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="94" pc="268436005" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="95" pc="268436012" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="98" pc="268436019" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="99" pc="268436046" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="102" pc="268436059" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="105" pc="268436066" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="106" pc="268436093" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="109" pc="268436106" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="112" pc="268436113" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="114" pc="268436140" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="117" pc="268436173" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="120" pc="268436180" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="121" pc="268436207" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="124" pc="268436220" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="127" pc="268436227" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="128" pc="268436254" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="129" pc="268436273" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="130" pc="268436283" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="133" pc="268436296" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="134" pc="268436303" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="140" pc="268436310" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="157" pc="268436603" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="160" pc="268436633" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="4" lineNum="165" pc="268436695" symbol="timerCallback"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="5" lineNum="168" pc="268436742" symbol="onReceive"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="6" lineNum="172" pc="268436747" symbol="onLayout"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="6" lineNum="173" pc="268436751" symbol="onLayout"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="7" lineNum="176" pc="268436789" symbol="onShow"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="8" lineNum="180" pc="268436794" symbol="onUpdate"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="8" lineNum="181" pc="268436798" symbol="onUpdate"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchView.mc" id="9" lineNum="185" pc="268436819" symbol="onHide"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchApp.mc" id="11" lineNum="6" pc="268436824" symbol="initialize"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchApp.mc" id="11" lineNum="7" pc="268436828" symbol="initialize"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchApp.mc" id="12" lineNum="11" pc="268436847" symbol="onStart"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchApp.mc" id="13" lineNum="15" pc="268436852" symbol="onStop"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchApp.mc" id="14" lineNum="19" pc="268436857" symbol="getInitialView"/>
+        <entry filename="/Users/yvesdebeer/Downloads/IoTWatch2/source/IoTWatchApp.mc" id="14" lineNum="20" pc="268436861" symbol="getInitialView"/>
+        <entry filename="Rez" id="18" lineNum="12" pc="268436899" symbol="initialize"/>
+        <entry filename="Rez" id="18" lineNum="13" pc="268436903" symbol="initialize"/>
+        <entry filename="Rez" id="19" lineNum="16" pc="268436928" symbol="draw"/>
+        <entry filename="Rez" id="19" lineNum="17" pc="268436932" symbol="draw"/>
+        <entry filename="Rez" id="19" lineNum="19" pc="268436961" symbol="draw"/>
+        <entry filename="Rez" id="23" lineNum="36" pc="268436994" symbol="MainLayout"/>
+        <entry filename="Rez" id="23" lineNum="38" pc="268437006" symbol="MainLayout"/>
+        <entry filename="Rez" id="23" lineNum="39" pc="268437046" symbol="MainLayout"/>
+        <entry filename="Rez" id="23" lineNum="40" pc="268437059" symbol="MainLayout"/>
+        <entry filename="Rez" id="23" lineNum="42" pc="268437075" symbol="MainLayout"/>
+        <entry filename="Rez" id="23" lineNum="43" pc="268437194" symbol="MainLayout"/>
+        <entry filename="Rez" id="23" lineNum="45" pc="268437246" symbol="MainLayout"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry field="true" id="8388959" symbol="cadence"/>
+        <entry id="9" object="true" symbol="IoTWatchView"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="19" symbol="string_HR"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388643" module="true" symbol="Sensor"/>
+        <entry field="true" id="8388965" symbol="heading"/>
+        <entry field="true" id="20" symbol="url"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="16" method="true" symbol="MainLayout"/>
+        <entry id="10" object="true" symbol="IoTWatchApp"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="21" symbol="timer"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="15" object="true" symbol="mainbg"/>
+        <entry field="true" id="17" symbol="AppName"/>
+        <entry id="8389594" symbol="headers"/>
+        <entry field="true" id="8389605" symbol="accel"/>
+        <entry field="true" id="8388964" symbol="pressure"/>
+        <entry field="true" id="14" symbol="LauncherIcon"/>
+        <entry id="8388646" module="true" object="true" symbol="Timer"/>
+        <entry id="8388786" method="true" symbol="method"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="8388963" symbol="altitude"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="13" symbol="id_monkey"/>
+        <entry field="true" id="8389310" symbol="position"/>
+        <entry field="true" id="8388958" symbol="speed"/>
+        <entry id="11" module="true" symbol="Layouts"/>
+        <entry id="8388642" module="true" symbol="Position"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8389345" symbol="rezId"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="22" method="true" symbol="timerCallback"/>
+        <entry id="8389844" symbol="responseType"/>
+        <entry field="true" id="18" symbol="dataTimer"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry field="true" id="8389606" symbol="mag"/>
+        <entry id="12" module="true" symbol="Menus"/>
+        <entry field="true" id="8388960" symbol="heartRate"/>
+        <entry field="true" id="8388961" symbol="power"/>
+        <entry id="23" method="true" symbol="onReceive"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="24" symbol="temp"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435723" name="accel" stackId="18" startPc="268435693"/>
+        <entry endPc="268435995" name="mag" stackId="19" startPc="268435955"/>
+        <entry endPc="268436293" name="location" stackId="20" startPc="268436254"/>
+        <entry endPc="268436741" name="cadence" stackId="7" startPc="268435527"/>
+        <entry endPc="268436741" name="headers" stackId="22" startPc="268435527"/>
+        <entry endPc="268436741" name="options" stackId="23" startPc="268435527"/>
+        <entry endPc="268436741" name="sensorInfo" stackId="1" startPc="268435527"/>
+        <entry endPc="268436741" name="heading" stackId="8" startPc="268435527"/>
+        <entry endPc="268436741" name="xMag" stackId="9" startPc="268435527"/>
+        <entry endPc="268436741" name="pressure" stackId="13" startPc="268435527"/>
+        <entry endPc="268436741" name="altitude" stackId="6" startPc="268435527"/>
+        <entry endPc="268436741" name="power" stackId="12" startPc="268435527"/>
+        <entry endPc="268436741" name="yMag" stackId="10" startPc="268435527"/>
+        <entry endPc="268436741" name="xAccel" stackId="3" startPc="268435527"/>
+        <entry endPc="268436741" name="longitude" stackId="17" startPc="268435527"/>
+        <entry endPc="268436741" name="latitude" stackId="16" startPc="268435527"/>
+        <entry endPc="268436741" name="zMag" stackId="11" startPc="268435527"/>
+        <entry endPc="268436741" name="yAccel" stackId="4" startPc="268435527"/>
+        <entry endPc="268436741" name="hR" stackId="5" startPc="268435527"/>
+        <entry endPc="268436741" name="positionInfo" stackId="2" startPc="268435527"/>
+        <entry endPc="268436741" name="speed" stackId="14" startPc="268435527"/>
+        <entry endPc="268436741" name="temp" stackId="15" startPc="268435527"/>
+        <entry endPc="268436741" name="params" stackId="21" startPc="268435527"/>
+        <entry endPc="268436747" name="responseCode" stackId="1" startPc="268436742"/>
+        <entry endPc="268436747" name="data" stackId="2" startPc="268436742"/>
+        <entry endPc="268436789" name="dc" stackId="1" startPc="268436747"/>
+        <entry endPc="268436819" name="dc" stackId="1" startPc="268436794"/>
+        <entry endPc="268436852" name="state" stackId="1" startPc="268436847"/>
+        <entry endPc="268436857" name="state" stackId="1" startPc="268436852"/>
+        <entry endPc="268436994" name="dc" stackId="1" startPc="268436928"/>
+        <entry endPc="268437273" name="rez_cmp_local_custom_drawable_mainbg" stackId="2" startPc="268437006"/>
+        <entry endPc="268437273" name="rez_cmp_local_bitmap_id_monkey" stackId="3" startPc="268437006"/>
+        <entry endPc="268437274" name="dc" stackId="1" startPc="268436994"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="150" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="229" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="284" parentId="Drawables" symbolId="mainbg" type="class"/>
+        <dataEntry offset="339" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="370" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="401" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="440" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="471" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="510" parentId="globals" symbolId="IoTWatchApp" type="class"/>
+        <dataEntry offset="581" parentId="globals" symbolId="IoTWatchView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="IoTWatchView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="timerCallback" parent="IoTWatchView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onReceive" parent="IoTWatchView">
+            <param id="responseCode"/>
+            <param id="data"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="IoTWatchView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="IoTWatchView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="IoTWatchView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="IoTWatchView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="IoTWatchApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="IoTWatchApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="IoTWatchApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="IoTWatchApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="mainbg">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="mainbg">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
